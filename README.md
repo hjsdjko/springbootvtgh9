@@ -1,14 +1,39 @@
+<div id="title" align=center>
 
-[索要源码请点我](http://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMDY3MTY0Nw==&action=getalbum&album_id=3423120253595582465&scene=173&subscene=&sessionid=svr_dbd799d91a1&enterid=1713666527&from_msgid=&from_itemidx=&count=3&nolastread=1#wechat_redirect)
 
+[![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-%E7%88%B1%E6%AF%95%E8%AE%BE%E5%AE%98%E7%BD%91-yello)](http://jsxs1.cn)
 
-关于源码项目的相关问题可以联系我们交流： 【QQ 979748385 QQ群 601569450】 
+![Visitor Count](https://profile-counter.glitch.me/hjsdjko/count.svg)
 
-- 微信扫一扫 (爱毕设) 获取源码
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=hjsdjko
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjsdjko&show_icons=true&theme=tokyonight)](http://jsxs1.cn)
+
+</div>
+
+点击此网址在线查看本项目视频： [http://www.jsxs1.cn](http://www.jsxs1.cn)
+
+完整源码联系 **人工客服24小时**全天在线 **【QQ 979748385 】** 回复项目编号即可获取！！！
+
+---
+
+**注意事项：**
+
+> **如何查看指定项目的演示视频？**
+
+💥💥💥点击此网址在线查看本项目视频： [http://www.jsxs1.cn](http://www.jsxs1.cn)
+
+![82e41f4df65c7c819ec690fd60bcaca](https://github.com/user-attachments/assets/e035d080-b35d-4137-8967-88d1b58ecaad)
+
+> **关注微信公众号【爱毕设】或添加QQ 【979748385】，可获取完整代码**
+
+1. 关注微信公众号 《爱毕设》输入项目编码即可！！！
 
 ![qrcode_for_gh_0f10658cd7ee_430](https://github.com/hjsdjko/onlyzaixianshangcheng/assets/120558513/edfc28fc-d9df-4e81-ac62-d02aa360e379)
 
-***************************************************************
+
+
+---
 
 系统架构
 
@@ -29,16 +54,3 @@
 4、在IDEA中运行
 
 5、打开浏览器，参考<说明文档.txt>中的地址
-
-***************************************************************
-
-![c70bf90a5f95fc355597a3656b265f4](https://github.com/hjsdjko/springbootvtgh9/assets/120558513/2f55cc3d-6feb-4110-b68b-94f64d9aabec)
-
-![db4e7fd2bbe30a42ed7514d1a75509b](https://github.com/hjsdjko/springbootvtgh9/assets/120558513/70f6df8d-74a1-4479-8150-c0cedf82b7cb)
-
-![22d6c3f6025efd0a70873f6d5879450](https://github.com/hjsdjko/springbootvtgh9/assets/120558513/338a2254-a4a1-43f2-9fcc-1acb0fd2b65d)
-
-![50b37b58d13119b3c8747403daaf828](https://github.com/hjsdjko/springbootvtgh9/assets/120558513/988424d3-cc9e-4e7e-91f3-955f6483d94b)
-
-![98a318d9cac5f03d4fbf95d8a6953ac](https://github.com/hjsdjko/springbootvtgh9/assets/120558513/c5fd4796-0cb6-44ec-aa40-2538402e6af0)
-
